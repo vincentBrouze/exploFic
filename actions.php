@@ -1,6 +1,5 @@
 <?php
 require('vues.php');
-
 function update_hierarchie($dir) {
   print_hierarchie($dir);
 }
