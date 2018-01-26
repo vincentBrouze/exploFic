@@ -17,7 +17,6 @@ if (isset($_GET['ordre'])) {
 }
 
 ?>
-
 <!doctype html>
 <html lang="fr">
   <head>
